@@ -1,1 +1,1 @@
-# Tik-Tok-Clone---Complete-website-using-MERN-stack
+# TikTokClone
